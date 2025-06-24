@@ -51,13 +51,8 @@
 - Dictate your questions using your microphone (if enabled).
 - Visual feedback while listening.
 
-### 🏆 Gamification
-- Earn points and streaks for asking questions and using features.
-- Achievements for first streak, bookmarks, and more.
-
 ### ⚙️ Customizable Settings
 - Set preferred language, tone (concise, detailed, beginner-friendly), and font size.
-- Enable/disable features: Voice Input, Diagrams, Gamification.
 - All preferences are respected by the AI in its responses.
 
 ### 🛠️ Accessibility & Shortcuts
