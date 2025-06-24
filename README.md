@@ -1,6 +1,6 @@
 # Sahayata AI: Coding Assistant Chrome Extension
 
-![Extension Icon](assets/assistance.png)
+![Extension Icon](Final Code/assets/assistance.png)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -88,7 +88,7 @@
    - The extension works on AlgoZenith (https://maang.in).
 
 2. **Click the AI Help Button**
-   - Look for the ![AI Help Button](assets/assistance.png) icon next to the "Ask Doubt" button.
+   - Look for the ![AI Help Button](Final Code/assets/assistance.png) icon next to the "Ask Doubt" button.
 
 3. **Ask Your Question**
    - Type or dictate your coding question.
@@ -137,18 +137,18 @@ All preferences are sent to the AI and respected in its responses.
 ## Screenshots
 
 ### Main Chat Modal
-![Chat Modal](assets/screenshot-chat-modal.png)
-![Info](assets/screenshot-info.png)
+![Chat Modal](Final Code/assets/screenshot-chat-modal.png)
+![Info](Final Code/assets/screenshot-info.png)
 
 ### Bookmarks & History
-![History](assets/screenshot-history.png)
-![Bookmarks](assets/screenshot-bookmarks.png)
+![History](Final Code/assets/screenshot-history.png)
+![Bookmarks](Final Code/assets/screenshot-bookmarks.png)
 
 ### Settings
-![Settings](assets/screenshot-settings.png)
+![Settings](Final Code/assets/screenshot-settings.png)
 
 ### Code Block Example
-![Code Block](assets/screenshot-code-block.png)
+![Code Block](Final Code/assets/screenshot-code-block.png)
 
 ---
 
