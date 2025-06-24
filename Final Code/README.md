@@ -1,6 +1,6 @@
 # Sahayata AI: Coding Assistant Chrome Extension
 
-![Extension Icon](assets/ext-icon.png)
+![Extension Icon](assets/assistance.png)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -10,7 +10,6 @@
 - [Settings & Preferences](#settings--preferences)
 - [Bookmarks & History](#bookmarks--history)
 - [Voice Input](#voice-input)
-- [Gamification](#gamification)
 - [Accessibility & Shortcuts](#accessibility--shortcuts)
 - [Screenshots](#screenshots)
 - [Demo Videos](#demo-videos)
@@ -22,7 +21,7 @@
 
 ## Overview
 
-**Sahayata AI** is a powerful Chrome extension that brings an AI-powered coding assistant directly to your favorite coding platforms. With a single click, you can ask coding questions, get code explanations, generate code in your preferred language, and manage your learning with bookmarks, history, and gamification features—all in a beautiful, accessible, and modern UI.
+**Sahayata AI** is a powerful Chrome extension that brings an AI-powered coding assistant directly to https://maang.in . With a single click, you can ask coding questions, get code explanations, generate code in your preferred language, and manage your learning with bookmarks, history—all in a beautiful, accessible, and modern UI.
 
 ---
 
@@ -69,7 +68,7 @@
 
 1. **Clone or Download the Repository**
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/Ashwani-Pathak/Sahayata-AI>
    ```
 
 2. **Load the Extension in Chrome**
@@ -86,7 +85,7 @@
 ## Usage
 
 1. **Open a Supported Coding Platform**
-   - The extension works on most coding websites (e.g., LeetCode, Codeforces, etc.).
+   - The extension works on AlgoZenith (https://maang.in).
 
 2. **Click the AI Help Button**
    - Look for the ![AI Help Button](assets/assistance.png) icon next to the "Ask Doubt" button.
@@ -106,8 +105,6 @@
 - **Preferred Language:** Set your default programming language (e.g., C++, Python). The AI will use this for code unless you specify otherwise.
 - **Tone:** Choose how detailed or beginner-friendly you want the AI's responses.
 - **Font Size:** Adjust the chat font size for comfort.
-- **Features:** Enable or disable Voice Input, Diagrams, and Gamification.
-
 All preferences are sent to the AI and respected in its responses.
 
 ---
@@ -127,13 +124,6 @@ All preferences are sent to the AI and respected in its responses.
 - Requires microphone permissions.
 
 ---
-
-## Gamification
-
-- Earn points for asking questions, bookmarking, and streaks.
-- Achievements for first streak, first bookmark, and more.
-- View your points and achievements in the settings.
-
 ---
 
 ## Accessibility & Shortcuts
@@ -146,14 +136,13 @@ All preferences are sent to the AI and respected in its responses.
 
 ## Screenshots
 
-> **Replace the image paths with your actual screenshots.**
-
 ### Main Chat Modal
 ![Chat Modal](assets/screenshot-chat-modal.png)
+![Info](assets/screenshot-info.png)
 
 ### Bookmarks & History
-![Bookmarks](assets/screenshot-bookmarks.png)
 ![History](assets/screenshot-history.png)
+![Bookmarks](assets/screenshot-bookmarks.png)
 
 ### Settings
 ![Settings](assets/screenshot-settings.png)
@@ -164,8 +153,6 @@ All preferences are sent to the AI and respected in its responses.
 ---
 
 ## Demo Videos
-
-> **Upload your demo videos to a platform (YouTube, Loom, etc.) and link them here.**
 
 - [Feature Walkthrough (YouTube)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 - [How to Use Bookmarks & History](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
