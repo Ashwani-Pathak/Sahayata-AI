@@ -1,12 +1,15 @@
 {
   "manifest_version": 3,
-  "name": "AZ Problem Tracker",
+  "name": "SAHAYATA AI",
   "version": "0.1",
-  "author": "Lakshya Mittal",
-  "description": "A Chrome Extension that helps us track problems on AZ",
+  "author": "Ashwani Pathak",
+  "description": "AI Assistance and Chat for coding problems",
   "permissions": [
     "storage",
     "tabs"
+  ],
+  "host_permissions": [
+    "https://generativelanguage.googleapis.com/*"
   ],
   "content_scripts": [
     {
@@ -26,18 +29,19 @@
       "resources": [
         "assets/bookmark.png",
         "assets/delete.png",
-        "assets/play.png"
+        "assets/play.png",
+        "assets/assistance.png"
       ],
       "matches" : ["<all_urls>"]
     }
   ],
   "action": {
     "default_icon": {
-      "16": "assets/ext-icon.png",
-      "24": "assets/ext-icon.png",
-      "32": "assets/ext-icon.png"
+      "16": "assets/assistance.png",
+      "24": "assets/assistance.png",
+      "32": "assets/assistance.png"
     },
     "default_popup": "popup.html",
-    "default_title": "AZ Problem Tracker"
+    "default_title": "AZ SAHAYATA AI"
   }
 }
